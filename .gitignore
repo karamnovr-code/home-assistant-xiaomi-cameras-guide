@@ -1,0 +1,16 @@
+.DS_Store
+*.log
+*.token
+*.secret
+*.pem
+*.key
+.env
+secrets.yaml
+configuration.yaml
+go2rtc.yaml
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mkv
